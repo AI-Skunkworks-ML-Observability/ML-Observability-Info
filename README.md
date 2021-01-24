@@ -1,5 +1,5 @@
 # ML-Observability-Info
-Overview ML Observability
+Overview of ML Observability
 
 
 ML Observability involves the real-time monitoring and dynamic deployment of ML models. Models respond to data and often the input data is fundamentally different from the data the model is seeing. Weekend advertising data can be very different weekday data. Aggregating all data into one massive training set can destroy important structure in data. ML Observability research involves developing monitoring and observability tools for the real-time deployment of ML models. 
