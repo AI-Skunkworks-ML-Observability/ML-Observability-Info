@@ -28,7 +28,7 @@ Sub-projects include:
 
 Student suggested research related to ML Observability 
 
-#### Data augmentation: 
+### Data augmentation: 
 
 The data augmentation subgroup is focused on creating “fake data” that is statistically indistinguishable from real data.  This includes image, sound, text, tabular or any data of interest to the researcher. Students interested in this group should be comfortable with the NU Discovery cluster and deep learning. This involves creating fake data (Mostly using deep learning, GANs, transformers, etc.) and evaluating fake data (Statistical and visual tests that try to discriminate real from fake) 
 
