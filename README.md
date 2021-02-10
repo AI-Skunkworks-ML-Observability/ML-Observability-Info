@@ -35,6 +35,7 @@ The data augmentation subgroup is focused on creating “fake data” that is st
 
 Meetings will be weekly for an hour over Teams.
 
+Meeting Schedule: Every Thursday, from 6:00 PM to 7:00 PM 
 
 Email AI Skunkworks  to express interest or join. 
 
